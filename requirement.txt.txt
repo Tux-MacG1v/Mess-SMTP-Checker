@@ -1,0 +1,6 @@
+requests
+colorama
+smtplib
+socket
+random
+re
