@@ -6,14 +6,14 @@ MASS  SMTP VALID INVALID CHECKER.
 
 - [ ] Install PYTHON 3
 
-#Linux
+# Linux
 ```
 pip3 install -r requirement.txt
 ```
 ```
 pyhton3 main.py
 ```
-#Windows
+# Windows
 ```
 pip install -r requirement.txt
 ```
