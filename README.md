@@ -20,3 +20,6 @@ pip install -r requirement.txt
 ```
 main.py
 ```
+
+# Disclaimer
+- This tool is provided for personal use only. The author assumes no responsibility for any misuse or malicious activities conducted with it. Since it is an open-source project, users are solely accountable for how they choose to utilize it.
